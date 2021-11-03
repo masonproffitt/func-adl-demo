@@ -1,2 +1,2 @@
-func-adl-uproot
+func-adl-uproot>=1.6
 matplotlib
